@@ -1,2 +1,3 @@
 # Atividade7
- Codigo para Calculo de IMC
+ Código para Calculo de IMC
+ Criado o codigo em C++ utilizando o XCode
